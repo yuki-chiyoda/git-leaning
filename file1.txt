@@ -1,5 +1,8 @@
 おはよう
-
 // task1 add
 おはよう
 // task1 add
+// task2 add
+good mornig
+// task2 add
+
