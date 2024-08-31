@@ -1,2 +1,4 @@
 おはよう
-
+// task2 add
+good mornig
+// task2 add
