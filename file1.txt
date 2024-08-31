@@ -1,8 +1,2 @@
 おはよう
-// test2 add
-> おは
-// test2 add
-// test1 add
->おはよう
-// test1 add
 
